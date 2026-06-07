@@ -1,8 +1,8 @@
-# Ciao, sono PiBOH (Pietro Bonaldo) 👋
+# Ciao!👋
 
 Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a **inizio maggio 2026** e in questo spazio raccolgo i miei progetti, le mie sperimentazioni e le mie passioni. Di solito creo principalmente **web app** e **app per Android**, ma su richiesta posso cimentarmi anche nella creazione di app per Windows e per Apple (forse! 😉).
 
-🔒 Tutti i miei repository sono completamente **gratuiti e senza pubblicità**.
+🆓 Tutti i miei repository sono completamente **gratuiti e senza pubblicità**.
 📜 Di solito applico la licenza **GNU AGPL 3.0** ai miei progetti, ma a volte utilizzo la licenza **MIT** o la **Unlicense**.
 
 ---
