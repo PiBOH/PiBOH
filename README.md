@@ -1,58 +1,46 @@
-# Ciao!👋
+# Ciao, sono PiBOH 👋
 
-Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a **inizio maggio 2026** e in questo spazio raccolgo i miei progetti, le mie sperimentazioni e le mie passioni. Di solito creo principalmente **web app** e **app per Android**, ma su richiesta posso cimentarmi anche nella creazione di app per Windows e per Apple (forse! 😉).
+Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a **inizio maggio 2026** 🚀. Sviluppo principalmente **Web App** e **App per Android** (e su richiesta posso cimentarmi anche su Windows e Apple... *forse!* 😉).
 
-🆓 Tutti i miei repository sono completamente **gratuiti e senza pubblicità**. 
-📜 Di solito applico la licenza **GNU AGPL 3.0** ai miei progetti, ma a volte utilizzo la licenza **MIT** o la **Unlicense**.
-
----
-
-### 🚀 I miei Repository Principali
-
-Al momento ho quattro repository pubblici attivi, ma sto costantemente lavorando ad altri progetti che pubblicherò più avanti:
-
-* **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** 💻 *(Il mio preferito e più attivo)* Una piattaforma interattiva dove puoi imparare a programmare in **10 linguaggi diversi** (Python, JavaScript, Java, Kotlin, Swift, C#, C++, C, PHP, HTML) divertendoti. 
-  * **Demo Live:** Puoi provarlo subito senza installare nulla [qui](https://code-learn1.vercel.app/) 
-  * *💡 Tip per l'accesso:* I progressi standard vengono salvati su un server Supabase. Se vuoi salvarli solo nel browser, aggiungi `-LOCAL` al termine del tuo nome. Se vuoi solo provarlo velocemente senza salvare nulla, aggiungi `-GUEST` (i progressi verranno eliminati alla chiusura della scheda). 
-
-* **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** 🎮  
-  Un file tramite il quale puoi gestire i tuoi server Minecraft sfruttando le loro chiavi API. È nato per evitare la fastidiosa pubblicità dei siti di hosting gratuiti.
-  * *Nota:* I server e le loro chiavi vengono salvati localmente sul tuo computer (ed esportabili tramite un tasto apposito). Ne sconsiglio l'utilizzo da dispositivi mobile.
-
-* **[flowonline](https://piboh.github.io/flowonline)** 🧠  
-  Una versione di *[Flowgorithm](www.flowgorithm.org/)* utilizzabile direttamente in-browser. Mantiene la stessa interfaccia classica; c'è ancora qualche piccolo bug residuo, ma è quasi del tutto completa!
-
-* **[2048-game](https://piboh.github.io/2048-game)** 🕹️  
-  Un giochino da fare magari nei momenti in cui ci si annoia.
+> ⚠️ *Per favore Non taggatemi in giro.*
 
 ---
 
-### 🛠️ Il mio Tech Stack
+### 📱 Le mie Applicazioni & Web App
 
-* **Frontend:** HTML5, CSS3, JavaScript, Vercel per il deployment.
-* **Database & Logica:** Supabase, LocalStorage per la persistenza dei dati client-side.
-* **Strumenti:** Flowgorithm e programmazione cross-platform.
+* **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** 💻 – Una piattaforma interattiva per imparare **10 linguaggi diversi** (Python, JS, Java, Kotlin, Swift, C#, C++, C, PHP, HTML) divertendosi.
+  * 🌐 *Demo Live:* [code-learn1.vercel.app](https://code-learn1.vercel.app/)
+  * *💡 Tip:* Usa `-LOCAL` alla fine del nome per salvare i dati sul browser, o `-GUEST` per testarlo senza salvare nulla.
+* **[Design-Arena-AI_APK-android](https://github.com/PiBOH/Design-Arena-AI_APK-android)** 🎨 – Il sito ufficiale di Design Arena convertito in una comoda app per dispositivi Android.
+* **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** 🎮 – Gestisci i tuoi server Minecraft tramite API senza pubblicità. *(Consigliato l'uso da PC).*
 
 ---
 
-### 📊 Le mie Statistiche di GitHub
+### 🛠️ Utility & Strumenti
+
+* **[flowonline](https://github.com/PiBOH/flowonline)** 🧠 – Una versione in-browser di *Flowgorithm*. L'interfaccia è fedele all'originale ed è quasi completa.
+* **[pdfgen-unlocked](https://github.com/PiBOH/pdfgen-unlocked)** 📄 – Genera file PDF estraendo contenuti anche dai siti web in cui la stampa è normalmente bloccata.
+* **[DeployStatusBadgeGenerator-ghpages](https://github.com/PiBOH/DeployStatusBadgeGenerator-ghpages)** 🏷️ – Genera automaticamente badge di deployment pronti per i file README dei tuoi progetti.
+* **[2048-game](https://github.com/PiBOH/2048-game)** 🕹️ – Il classico gioco rompicapo numerico, perfetto per quando ci si annoia.
+
+---
+
+### 📊 Statistiche di GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiBOH&show_icons=true&theme=radical" alt="Statistiche GitHub di PiBOH" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiBOH&layout=compact&theme=radical" alt="I linguaggi più usati" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PiBOH&show_icons=true&theme=dark" alt="Statistiche di PiBOH" width="390"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiBOH&layout=compact&theme=dark" alt="I linguaggi più usati" width="310"/>
 </p>
 
 ---
 
-### 📫 Come Metterti in Contatto
+### 📫 Contatti & Collegamenti
 
-* 🌐 **Sito Web:** Gestisco molti altri repository! Per vederli tutti ti basta visitare il mio [sito personale](https://piboh.github.io/)
-* 💬 **Domande o Supporto:** Per qualsiasi domanda chiedi pure direttamente a **PiBOH** qui su GitHub. 
-* 📧 **e-mail** [piboh.github@gmail.com](mailto:piboh.github@gmail.com)
+* 🌐 **Sito Web:** Scopri tutti i miei lavori su [piboh.github.io](https://piboh.github.io/)
+* 📧 **E-mail:** Se hai domande o hai bisogno di supporto, scrivimi a [piboh.github@gmail.com](mailto:piboh.github@gmail.com) *(di solito rispondo entro 2 settimane)*.
 
-(Di solito rispondo entro 2 settimane.)
+Buon divertimento nell'esplorare il mio codice! 🚀
 
-Buon divertimento nell'esplorare il mio codice! 🚀  
 *Firmato,* **PiBOH** 
 <!--- *(PietroBonaldo)* --->
 
