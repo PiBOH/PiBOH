@@ -48,6 +48,7 @@ Al momento ho quattro repository pubblici attivi, ma sto costantemente lavorando
 
 * 🌐 **Sito Web:** Gestisco molti altri repository! Per vederli tutti ti basta visitare il mio sito personale: [piboh.github.io](https://piboh.github.io/)
 * 💬 **Domande o Supporto:** Per qualsiasi domanda chiedi pure direttamente a **PiBOH** qui su GitHub o scrivi alla mail indicata nel mio profilo. Di solito rispondo entro 2 settimane.
+* 📧 **e-mail** piboh.github@gmail.com
 
 Buon divertimento nell'esplorare il mio codice! 🚀  
 *Firmato,* **PiBOH** *(PietroBonaldo)*
