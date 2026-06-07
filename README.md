@@ -2,7 +2,7 @@
 
 Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a **inizio maggio 2026** e in questo spazio raccolgo i miei progetti, le mie sperimentazioni e le mie passioni. Di solito creo principalmente **web app** e **app per Android**, ma su richiesta posso cimentarmi anche nella creazione di app per Windows e per Apple (forse! 😉).
 
-🆓 Tutti i miei repository sono completamente **gratuiti e senza pubblicità**.
+🆓 Tutti i miei repository sono completamente **gratuiti e senza pubblicità**. 
 📜 Di solito applico la licenza **GNU AGPL 3.0** ai miei progetti, ma a volte utilizzo la licenza **MIT** o la **Unlicense**.
 
 ---
@@ -11,9 +11,9 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
 
 Al momento ho quattro repository pubblici attivi, ma sto costantemente lavorando ad altri progetti che pubblicherò più avanti:
 
-* **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** 💻 *(Il mio preferito e più attivo)* Una piattaforma interattiva dove puoi imparare a programmare in **10 linguaggi diversi** (Python, JavaScript, Java, Kotlin, Swift, C#, C++, C, PHP, HTML) divertendoti.
-  * **Demo Live:** Puoi provarlo subito senza installare nulla su [code-learn1.vercel.app](https://code-learn1.vercel.app/)
-  * *💡 Tip per l'accesso:* I progressi standard vengono salvati su un server Supabase. Se vuoi salvarli solo nel browser, aggiungi `-LOCAL` al termine del tuo nome. Se vuoi solo provarlo velocemente senza salvare nulla, aggiungi `-GUEST` (i progressi verranno eliminati alla chiusura della scheda).
+* **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** 💻 *(Il mio preferito e più attivo)* Una piattaforma interattiva dove puoi imparare a programmare in **10 linguaggi diversi** (Python, JavaScript, Java, Kotlin, Swift, C#, C++, C, PHP, HTML) divertendoti. 
+  * **Demo Live:** Puoi provarlo subito senza installare nulla su [code-learn1.vercel.app](https://code-learn1.vercel.app/) 
+  * *💡 Tip per l'accesso:* I progressi standard vengono salvati su un server Supabase. Se vuoi salvarli solo nel browser, aggiungi `-LOCAL` al termine del tuo nome. Se vuoi solo provarlo velocemente senza salvare nulla, aggiungi `-GUEST` (i progressi verranno eliminati alla chiusura della scheda). 
 
 * **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** 🎮  
   Un file tramite il quale puoi gestire i tuoi server Minecraft sfruttando le loro chiavi API. È nato per evitare la fastidiosa pubblicità dei siti di hosting gratuiti.
@@ -48,10 +48,11 @@ Al momento ho quattro repository pubblici attivi, ma sto costantemente lavorando
 
 * 🌐 **Sito Web:** Gestisco molti altri repository! Per vederli tutti ti basta visitare il mio sito personale: [piboh.github.io](https://piboh.github.io/)
 * 💬 **Domande o Supporto:** Per qualsiasi domanda chiedi pure direttamente a **PiBOH** qui su GitHub o scrivi alla mail indicata nel mio profilo. Di solito rispondo entro 2 settimane.
-* 📧 **e-mail** piboh.github@gmail.com
+* 📧 **e-mail** [piboh.github@gmail..com](mailto:piboh.github@gmail.com)
 
 Buon divertimento nell'esplorare il mio codice! 🚀  
-*Firmato,* **PiBOH** *(PietroBonaldo)*
+*Firmato,* **PiBOH** 
+<!--- *(PietroBonaldo)* --->
 
 <!--- ## Hi there 👋 --->
 
