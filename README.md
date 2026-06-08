@@ -44,6 +44,10 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
 Buon divertimento nell'esplorare il mio codice! 🚀
 
 *Firmato,* **PiBOH** 
+
+***
+***
+Ho ricreato tutto il profilo da zeero perché ho creato una [mail](mailto:piboh.github@gmail.com) apposta per le cose di github e mi sono quindi ri-registrato e ho dovuto quindi eliminare e repo e ripubblicarli su [questo profilo](https://github.com/PiBOH), per vedere il vecchio profilo clicca [qui](https://github.com/PiBOH98a/).
 <!--- *(PietroBonaldo)* --->
 
 <!--- ## Hi there 👋 --->
