@@ -30,7 +30,7 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
 ### 📊 Statistiche di GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiBOH&show_icons=true&theme=dark" alt="Statistiche di PiBOH" width="390"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PiBOH&show_icons=true&theme=dark" alt="Statistiche" width="390"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiBOH&layout=compact&theme=dark" alt="I linguaggi più usati" width="310"/>
 </p>
 
