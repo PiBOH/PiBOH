@@ -13,6 +13,7 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
 * **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** 💻 – Una piattaforma interattiva per imparare **10 linguaggi diversi** (Python, JS, Java, Kotlin, Swift, C#, C++, C, PHP, HTML) divertendosi.
   * 🌐 *Demo Live:* [code-learn1.vercel.app](https://code-learn1.vercel.app/) (progressi salvati su supabase).
   * *💡 Tip:* Usa `-LOCAL` alla fine del nome per salvare i dati sul browser, o `-GUEST` per testarlo senza salvare nulla.
+  * *Su android 11 e precedenti consiglio di utilizzare [CodeLearn1-WEB](https://github.com/PiBOH/CodeLearn1-WEB/releases/latest) (fa la stessa cosa ma va meglio).*
 * **[Design-Arena-AI_APK-android](https://github.com/PiBOH/Design-Arena-AI_APK-android)** 🎨 – Il sito ufficiale di Design Arena convertito in una comoda app per dispositivi Android.
 * **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** 🎮 – Gestisci i tuoi server Minecraft tramite API senza pubblicità. *(Consigliato l'uso da PC).*
 
