@@ -43,13 +43,15 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
 * 🌐 **Sito Web:** Scopri tutti i miei lavori su [piboh.github.io](https://piboh.github.io/)
 * 📧 **E-mail:** Se hai domande o hai bisogno di supporto, scrivimi a [piboh.github@gmail.com](mailto:piboh.github@gmail.com) *(di solito rispondo entro 2 settimane)*.
 
-Buon divertimento nell'esplorare il mio codice! 🚀
+Buon divertimento!
 
 *Firmato,* **PiBOH** 
 
 ***
 ***
-Ho ricreato tutto il profilo da zeero perché ho creato una [mail](mailto:piboh.github@gmail.com) apposta per le cose di github e mi sono quindi ri-registrato e ho dovuto quindi eliminare e repo e ripubblicarli su [questo profilo](https://github.com/PiBOH), per vedere il vecchio profilo clicca [qui](https://github.com/PiBOH98a/).
+Ho ricreato tutto il profilo da zeero perché ho creato una [mail](mailto:piboh.github@gmail.com) apposta per le cose di github e mi sono quindi ri-registrato e ho dovuto quindi eliminare e repo e ripubblicarli su [questo profilo](https://github.com/PiBOH) (così facendo alcuni collegamenti non vanno, non appena ne trovi uno buggato segnalalo [qui](mailto:piboh.github@gmail.com). Per vedere il vecchio profilo clicca [qui](https://github.com/PiBOH98a/).
+
+Grazie a tutti per il supporto.
 <!--- *(PietroBonaldo)* --->
 
 <!--- ## Hi there 👋 --->
