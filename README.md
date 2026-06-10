@@ -15,8 +15,7 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
   * *💡 Tip:* Usa `-LOCAL` alla fine del nome per salvare i dati sul browser, o `-GUEST` per testarlo senza salvare nulla.
   * *Su android 11 e precedenti consiglio di utilizzare [CodeLearn1-WEB](https://github.com/PiBOH/CodeLearn1-WEB/releases/latest) (fa la stessa cosa ma va meglio).*
 * **[Design-Arena-AI_APK-android](https://github.com/PiBOH/Design-Arena-AI_APK-android)** 🎨 – Il sito ufficiale di Design Arena convertito in una comoda app per dispositivi Android.
-*
-**[Arena-AI-APK-android](https://github.com/PiBOH/Arena-AI_APK-android)** – Il sito ufficiale di Arena AI convertito in una comoda app per dispositivi Android.
+* **[Arena-AI-APK-android](https://github.com/PiBOH/Arena-AI_APK-android)** – Il sito ufficiale di Arena AI convertito in una comoda app per dispositivi Android.
 * **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** 🎮 – Gestisci i tuoi server Minecraft tramite API senza pubblicità. *(Consigliato l'uso da PC).*
 
 ---
