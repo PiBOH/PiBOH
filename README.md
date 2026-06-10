@@ -17,7 +17,7 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
 * **[Design-Arena-AI_APK-android](https://github.com/PiBOH/Design-Arena-AI_APK-android)** 🎨 – Il sito ufficiale di Design Arena convertito in una comoda app per dispositivi Android.
 *
 **[Arena-AI-APK-android](https://github.com/PiBOH/Arena-AI_APK-android)** – Il sito ufficiale di Arena AI convertito in una comoda app per dispositivi Android.
- **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** 🎮 – Gestisci i tuoi server Minecraft tramite API senza pubblicità. *(Consigliato l'uso da PC).*
+* **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** 🎮 – Gestisci i tuoi server Minecraft tramite API senza pubblicità. *(Consigliato l'uso da PC).*
 
 ---
 
