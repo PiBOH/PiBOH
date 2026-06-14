@@ -25,12 +25,17 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
 * **[flowonline](https://github.com/PiBOH/flowonline)** 🧠 – Una versione in-browser di *Flowgorithm*. L'interfaccia è fedele all'originale ed è quasi completa.
 * **[pdfgen-unlocked](https://github.com/PiBOH/pdfgen-unlocked)** 📄 – Genera file PDF estraendo contenuti anche dai siti web in cui la stampa è normalmente bloccata.
 * **[DeployStatusBadgeGenerator-ghpages](https://github.com/PiBOH/DeployStatusBadgeGenerator-ghpages)** 🏷️ – Genera automaticamente badge di deployment pronti per i file README dei tuoi progetti.
+* [Background remover](https://github.com/PiBOH/background-remover) - Un tool per rimuovere lo sfondo dalle immagini (nessuna immagine viene conservata online). (fork del [progetto originario](https://github.com/balewgize/background-remover) di [balewgize](https://github.com/balewgize/)
+
+### 🎮 Giochetti vari.
+
 * **[2048-game](https://github.com/PiBOH/2048-game)** 🕹️ – Il classico gioco rompicapo numerico, perfetto per quando ci si annoia.
 * **[wbwwb2-game](https://github.com/PiBOH/wbwwb2-game)** - Una rielaborazione del gioco di [Nicky Case](https://ncase.itch.io/) ottimizzata e tradotta in italiano per [GitHub pages](https://piboh.github.io/wbwwb2-game/)
+* **[FeeGDL](https://github.com/PiBOH/FreeGDL) - Una versione gratutia, senza pubblicità, e ottimizzata per [GitHub pages]() del famoso gioco Geometry Dash. (la versione del gioco è un po' vecchiotta)
 
 ---
 
-### 📊 Statistiche di GitHub
+### 📊 Statistiche
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PiBOH&show_icons=true&theme=dark" alt="Statistiche" width="390"/>
