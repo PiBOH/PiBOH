@@ -4,10 +4,6 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
 
 ---
 
-> ⚠️ *Per favore Non taggatemi in giro.*  
-
----
-
 ### 📱 Le mie Applicazioni & Web App
 
 * **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** 💻 – Una piattaforma interattiva per imparare **10 linguaggi diversi** (Python, JS, Java, Kotlin, Swift, C#, C++, C, PHP, HTML) divertendosi.
@@ -76,3 +72,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Tutti i repository taggati con [questa star](https://github.com/stars/PiBOH/lists/%F0%9F%85%B0-%E2%84%B9) hanno traccia di codice AI.
