@@ -2,6 +2,8 @@
 
 Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a **inizio maggio 2026** 🚀. Sviluppo principalmente **Web App** e **App per Android** (e su richiesta posso cimentarmi anche su Windows e Apple... *forse!* 😉).
 
+Attuamlente studio informatca all' [IIS Barsanti-Galilei](https://www.barsantigalilei.edu.it/) (Plesso [ITIS](https://www.barsantigalilei.edu.it/index.php/struttura/istituto-di-istruzione-superiore-barsanti-galilei/scuola/))
+
 ---
 
 ### 📱 Le mie Applicazioni & Web App
@@ -21,7 +23,7 @@ Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a 
 * **[flowonline](https://github.com/PiBOH/flowonline)** 🧠 – Una versione in-browser di *Flowgorithm*. L'interfaccia è fedele all'originale ed è quasi completa.
 * **[pdfgen-unlocked](https://github.com/PiBOH/pdfgen-unlocked)** 📄 – Genera file PDF estraendo contenuti anche dai siti web in cui la stampa è normalmente bloccata.
 * **[DeployStatusBadgeGenerator-ghpages](https://github.com/PiBOH/DeployStatusBadgeGenerator-ghpages)** 🏷️ – Genera automaticamente badge di deployment pronti per i file README dei tuoi progetti.
-* [Background remover](https://github.com/PiBOH/background-remover) - Un tool per rimuovere lo sfondo dalle immagini (nessuna immagine viene conservata online). (fork del [progetto originario](https://github.com/balewgize/background-remover) di [balewgize](https://github.com/balewgize/)
+* **[Background remover](https://github.com/PiBOH/background-remover)** - Un tool per rimuovere lo sfondo dalle immagini (nessuna immagine viene conservata online). (fork del [progetto originario](https://github.com/balewgize/background-remover) di [balewgize](https://github.com/balewgize/)
 
 ### 🎮 Giochetti vari.
 
