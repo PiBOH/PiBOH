@@ -28,8 +28,9 @@ Attuamlente studio informatca all' [IIS Barsanti-Galilei](https://www.barsantiga
 ### 🎮 Giochetti vari.
 
 * **[2048-game](https://github.com/PiBOH/2048-game)** 🕹️ – Il classico gioco rompicapo numerico, perfetto per quando ci si annoia.
-* **[wbwwb2-game](https://github.com/PiBOH/wbwwb2-game)** - Una rielaborazione del gioco di [Nicky Case](https://ncase.itch.io/) ottimizzata e tradotta in italiano per [GitHub pages](https://piboh.github.io/wbwwb2-game/)
-* **[FreeGDL](https://github.com/PiBOH/FreeGDL)** - Una versione gratutia, senza pubblicità, e ottimizzata per [GitHub pages]() del famoso gioco Geometry Dash. (la versione del gioco è un po' vecchiotta)
+* **[wbwwb2-game](https://github.com/PiBOH/wbwwb2-game)** - Una rielaborazione del gioco di [Nicky Case](https://ncase.itch.io/) ottimizzata e tradotta in italiano per [GitHub pages](https://piboh.github.io/wbwwb2-game/).
+* **[FreeGDL](https://github.com/PiBOH/FreeGDL)** - Una versione gratutia, senza pubblicità, e ottimizzata per [GitHub pages](https://piboh.github.io/FreeGDL) del famoso gioco Geometry Dash. (la versione del gioco è un po' vecchiotta).
+* **[XTerris](https://github.com/PiBOH/XTetris)** - una versione cli del famoso gioco tetris.
 
 ---
 
