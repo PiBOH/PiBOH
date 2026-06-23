@@ -24,6 +24,7 @@ Attuamlente studio informatca all' [IIS Barsanti-Galilei](https://www.barsantiga
 * **[pdfgen-unlocked](https://github.com/PiBOH/pdfgen-unlocked)** 📄 – Genera file PDF estraendo contenuti anche dai siti web in cui la stampa è normalmente bloccata.
 * **[DeployStatusBadgeGenerator-ghpages](https://github.com/PiBOH/DeployStatusBadgeGenerator-ghpages)** 🏷️ – Genera automaticamente badge di deployment pronti per i file README dei tuoi progetti.
 * **[Background remover](https://github.com/PiBOH/background-remover)** - Un tool per rimuovere lo sfondo dalle immagini (nessuna immagine viene conservata online). (fork del [progetto originario](https://github.com/balewgize/background-remover) di [balewgize](https://github.com/balewgize/)
+* **[multimdreader](https://github.com/PiBOH/multimdreader) - Un tool multilingua portable per visualizzare i file markdown. il repository è dotato di [workflow automatici](https://github.com/PiBOH/multimdreader/tree/main/.github/workflows) che buildano le varie [release per Windows, MacOS, Linux](https://github.com/PiBOH/multimdreader/releases/latest). è anche dotato di un [workflow](https://github.com/PiBOH/multimdreader/tree/main/.github/workflows) che fa sia il delpoy della landing page del repo, sia il delpoy della demo, il tutto su [github pages](https://piboh.github.io/multimdreader/).
 
 ### 🎮 Giochetti vari.
 
@@ -54,7 +55,7 @@ Buon divertimento!
 
 ***
 ***
-Ho ricreato tutto il profilo da zeero perché ho creato una [mail](mailto:piboh.github@gmail.com) apposta per le cose di github e mi sono quindi ri-registrato e ho dovuto quindi eliminare e repo e ripubblicarli su [questo profilo](https://github.com/PiBOH) (così facendo alcuni collegamenti non vanno, non appena ne trovi uno buggato segnalalo [qui](mailto:piboh.github@gmail.com). Per vedere il vecchio profilo clicca [qui](https://github.com/PiBOH98a/).
+Ho ricreato tutto il profilo da zeero perché ho creato una [mail](mailto:piboh.github@gmail.com) apposta per le cose di github e mi sono quindi ri-registrato e ho dovuto quindi eliminare e repository e ripubblicarli su [questo profilo](https://github.com/PiBOH) (così facendo alcuni collegamenti non vanno, non appena ne trovi uno buggato segnalalo [qui](mailto:piboh.github@gmail.com). Per vedere il vecchio profilo clicca [qui](https://github.com/PiBOH98a/).
 
 Grazie a tutti per il supporto.
 <!--- *(PietroBonaldo)* --->
