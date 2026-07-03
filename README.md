@@ -1,4 +1,4 @@
-# Ciao, sono PiBOH 👋
+# Ciao, sono PiBOH (Pietro Bonaldo)👋
 
 Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a **inizio maggio 2026** 🚀. Sviluppo principalmente **Web App** e **App per Android** (e su richiesta posso cimentarmi anche su Windows e Apple... *forse!* 😉).
 
