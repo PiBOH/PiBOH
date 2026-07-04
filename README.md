@@ -6,7 +6,7 @@ Benvenuto nel mio profilo GitHub! Sono uno studente di informatica presso l'**[I
 
 ### 🌐 Connettivi con me
 
-[![Sito Web](https://shields.io)](https://github.io)
+[![Sito Web](https://shields.io)](https://piboh.github.io)
 [![Email](https://shields.io)](mailto:piboh.github@gmail.com)
 
 ---
