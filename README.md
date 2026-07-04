@@ -4,10 +4,10 @@ Benvenuto nel mio profilo GitHub! Sono uno studente di informatica presso l'**II
 
 ---
 
-### 🌐 Connettiti con me
+### 🌐 Connettivi con me
 
-* 💻 **Sito Web / Portfolio:** [piboh.github.io](https://github.io)
-* 📧 **E-mail di Supporto:** [piboh.github@gmail.com](mailto:piboh.github@gmail.com)
+[![Sito Web](https://shields.io)](https://github.io)
+[![Email](https://shields.io)](mailto:piboh.github@gmail.com)
 
 ---
 
@@ -30,7 +30,7 @@ Sviluppo attivamente all'interno di queste organizzazioni:
 ### 📁 I miei Progetti Principali
 
 #### 📱 Applicazioni & Web App
-* **[CodeLearn1](https://github.com)** — Piattaforma interattiva per imparare 10 linguaggi divertendosi. Salva i progressi sul cloud con Supabase. (Demo: [code-learn1.vercel.app](https://vercel.app)).
+* **[CodeLearn1](https://github.com)** — Piattaforma interattiva per imparare 10 linguaggi divertendosi. Salva i progressi sul cloud con Supabase. (Demo: [code-learn1.vercel.app](https://code-learn1.vercel.app)).
 * **Design-Arena-AI & Arena-AI** — Applicazioni Android (.APK) ufficiali ottimizzate partendo dai rispettivi siti web.
 * **[MCServerManagement](https://github.com)** — Gestione centralizzata di server Minecraft tramite chiamate API, senza pubblicità.
 
@@ -52,13 +52,14 @@ Sviluppo attivamente all'interno di queste organizzazioni:
 ### 📊 Le mie Statistiche su GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Statistiche GitHub" width="45%" />
-  <img src="https://vercel.app" alt="Linguaggi più usati" width="45%" />
+  <img src="https://vercel.app" alt="Statistiche GitHub" height="180px" />
+  <img src="https://vercel.app" alt="Linguaggi più usati" height="180px" />
 </p>
 
 ---
 
 <p align="center"><em>Firmato, PiBOH 💻</em></p>
+
 
 
 <!-- VECCHIO README # Ciao, sono PiBOH (Pietro Bonaldo)👋
