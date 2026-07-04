@@ -1,6 +1,6 @@
 # Ciao, sono PiBOH (Pietro Bonaldo) 👋
 
-Benvenuto nel mio profilo GitHub! Sono uno studente di informatica presso l'**IIS Barsanti-Galilei (Plesso ITIS)** e uno sviluppatore indipendente appassionato di Web App, Utility Tools e applicazioni per dispositivi Android.
+Benvenuto nel mio profilo GitHub! Sono uno studente di informatica presso l'**[IIS Barsanti-Galilei](https://www.barsantigalilei.edu.it/) ([Plesso ITIS](https://www.barsantigalilei.edu.it/index.php/struttura/istituto-di-istruzione-superiore-barsanti-galilei/scuola/))** e uno sviluppatore indipendente appassionato di Web App, Utility Tools e applicazioni per dispositivi Android.
 
 ---
 
