@@ -14,8 +14,8 @@ Benvenuto nel mio profilo GitHub! Sono uno studente di informatica presso l'**II
 ### 🏛 Organizzazioni
 
 Sviluppo attivamente all'interno di queste organizzazioni:
-* 🎮 **[@PiBOH-MC](https://github.com)** — Progetti e tool dedicati al mondo di Minecraft.
-* 📚 **[@PiBOH-EDU](https://github.com)** — Repository, note e risorse per l'ambito scolastico ed educativo.
+* 🎮 **[@PiBOH-MC](https://github.com/PiBOH-MC)** — Progetti e tool dedicati al mondo di Minecraft.
+* 📚 **[@PiBOH-EDU](https://github.com/PiBOH-EDU/)** — Repository, note e risorse per l'ambito scolastico ed educativo.
 
 ---
 
@@ -30,22 +30,22 @@ Sviluppo attivamente all'interno di queste organizzazioni:
 ### 📁 I miei Progetti Principali
 
 #### 📱 Applicazioni & Web App
-* **[CodeLearn1](https://github.com)** — Piattaforma interattiva per imparare 10 linguaggi divertendosi. Salva i progressi sul cloud con Supabase. (Demo: [code-learn1.vercel.app](https://code-learn1.vercel.app)).
-* **Design-Arena-AI & Arena-AI** — Applicazioni Android (.APK) ufficiali ottimizzate partendo dai rispettivi siti web.
-* **[MCServerManagement](https://github.com)** — Gestione centralizzata di server Minecraft tramite chiamate API, senza pubblicità.
+* **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** — Piattaforma interattiva per imparare 10 linguaggi divertendosi. Salva i progressi sul cloud con Supabase. (Demo: [code-learn1.vercel.app](https://code-learn1.vercel.app)).
+* **[Design-Arena-AI](https://github.com/PiBOH/Design-Arena-AI_APK-android) & [Arena-AI](https://github.com/PiBOH/Arena-AI_APK-android)** — Applicazioni Android (.APK) ufficiali ottimizzate partendo dai rispettivi siti web.
+* **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** — Gestione centralizzata di server Minecraft tramite chiamate API, senza pubblicità.
 
 #### 🛠 Utility & Strumenti
-* **[multimdreader](https://github.com)** — Reader/editor Markdown multipiattaforma portable. Ha workflow CI/CD automatici per le build stabili e il deploy immediato della demo su GitHub Pages.
-* **[flowonline2](https://github.com)** — Clone web multilingua e fedele del software di diagrammi di flusso Flowgorithm.
-* **[pdfgen-unlocked](https://github.com)** — Estrattore e generatore PDF per salvare contenuti dai siti che bloccano la stampa.
-* **Background remover** — Tool locale per rimuovere lo sfondo dalle immagini salvaguardando la privacy (nessun dato online).
-* **DeployStatusBadgeGenerator-ghpages** — Generatore di badge di stato per i file README dei repository.
+* **[multimdreader](https://github.com/PiBOH/multimdreader)** — Reader/editor Markdown multipiattaforma portable. Ha workflow CI/CD automatici per le build stabili e il deploy immediato della demo su GitHub Pages.
+* **[flowonline2](https://github.com/PiBOH/flowonline2)** — Clone web multilingua e fedele del software di diagrammi di flusso Flowgorithm.
+* **[pdfgen-unlocked](https://github.com/PiBOH/pdfgen-unlocked)** — Estrattore e generatore PDF per salvare contenuti dai siti che bloccano la stampa.
+* **[Background remover](https://github.com/PiBOH/background-remover)** — Tool locale per rimuovere lo sfondo dalle immagini salvaguardando la privacy (nessun dato online).
+* **[DeployStatusBadgeGenerator-ghpages](https://github.com/PiBOH/DeployStatusBadgeGenerator-ghubpages)** — Generatore di badge di stato per i file README dei repository.
 
 #### 🎮 Giochi & Esperimenti
 * **[2048-game](https://github.com)** — Il celebre rompicapo numerico ottimizzato per browser.
-* **wbwwb2-game** — Rielaborazione ottimizzata e interamente tradotta in italiano del gioco interattivo di Nicky Case.
-* **FreeGDL** — Versione gratuita, leggera e senza pubblicità di Geometry Dash per GitHub Pages.
-* **XTetris** — Il classico gioco del Tetris giocabile direttamente da riga di comando (CLI).
+* **[wbwwb2-game](https://github.com/PiBOH/wbwwb2-game)** — Rielaborazione ottimizzata e interamente tradotta in italiano del gioco interattivo di Nicky Case.
+* **[FreeGDL](https://github.com/PiBOH/FreeGDL)** — Versione gratuita, leggera e senza pubblicità di Geometry Dash per GitHub Pages.
+* **[XTetris](https://github.com/PiBOH/XTetris)** — Il classico gioco del Tetris giocabile direttamente da riga di comando (CLI).
 
 ---
 
