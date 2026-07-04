@@ -6,78 +6,60 @@ Benvenuto nel mio profilo GitHub! Sono uno studente di informatica presso l'**II
 
 ### 🌐 Connettiti con me
 
-[![Portfolio](https://shields.io)](https://piboh.github.io)
-[![Email](https://shields.io)](mailto:piboh.github@gmail.com)
+* 💻 **Sito Web / Portfolio:** [piboh.github.io](https://github.io)
+* 📧 **E-mail di Supporto:** [piboh.github@gmail.com](mailto:piboh.github@gmail.com)
 
 ---
 
 ### 🏛 Organizzazioni
 
-Faccio attivamente parte e sviluppo all'interno di queste organizzazioni:
-* **[@PiBOH-MC](https://github.com)** — Progetti e tools legati al mondo di Minecraft.
-* **[@PiBOH-EDU](https://github.com)** — Repository, note e risorse dedicate all'ambito educativo.
+Sviluppo attivamente all'interno di queste organizzazioni:
+* 🎮 **[@PiBOH-MC](https://github.com)** — Progetti e tool dedicati al mondo di Minecraft.
+* 📚 **[@PiBOH-EDU](https://github.com)** — Repository, note e risorse per l'ambito scolastico ed educativo.
 
 ---
 
 ### 🛠 Il mio Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Linguaggi</strong>
-      <br/><br/>
-      <img src="https://shields.io" alt="TypeScript"/>
-      <img src="https://shields.io" alt="JavaScript"/>
-      <img src="https://shields.io" alt="Kotlin"/>
-    </td>
-    <td align="center" width="33%">
-      <strong>Backend & Database</strong>
-      <br/><br/>
-      <img src="https://shields.io" alt="Supabase"/>
-    </td>
-    <td align="center" width="33%">
-      <strong>Strumenti & DevOps</strong>
-      <br/><br/>
-      <img src="https://shields.io" alt="Git"/>
-      <img src="https://shields.io" alt="GitHub Actions"/>
-    </td>
-  </tr>
-</table>
+* **Linguaggi:** TypeScript, JavaScript, Kotlin
+* **Backend & Database:** Supabase
+* **Strumenti & Automazione:** Git, GitHub Actions
 
 ---
 
 ### 📁 I miei Progetti Principali
 
 #### 📱 Applicazioni & Web App
-* **[CodeLearn1](https://github.com)** — Una piattaforma interattiva pensata per imparare 10 linguaggi diversi divertendosi, con salvataggio dei progressi cloud basato su Supabase. (Demo Live: [code-learn1.vercel.app](https://vercel.app)).
-* **Design-Arena-AI & Arena-AI** — Versioni ufficiali per dispositivi mobili Android (.APK) derivate e ottimizzate dai rispettivi siti web.
-* **[MCServerManagement](https://github.com)** — Applicazione progettata per gestire i propri server Minecraft tramite chiamate API, completamente priva di pubblicità.
+* **[CodeLearn1](https://github.com)** — Piattaforma interattiva per imparare 10 linguaggi divertendosi. Salva i progressi sul cloud con Supabase. (Demo: [code-learn1.vercel.app](https://vercel.app)).
+* **Design-Arena-AI & Arena-AI** — Applicazioni Android (.APK) ufficiali ottimizzate partendo dai rispettivi siti web.
+* **[MCServerManagement](https://github.com)** — Gestione centralizzata di server Minecraft tramite chiamate API, senza pubblicità.
 
 #### 🛠 Utility & Strumenti
-* **[multimdreader](https://github.com)** — Un Markdown reader/editor multipiattaforma portable. Include workflow CI/CD automatizzati per la compilazione dei rilasci cross-platform e l'hosting automatico della demo e della landing page su GitHub Pages.
-* **[flowonline2](https://github.com)** — Un clone fedele e multilingua in-browser del software Flowgorithm per la creazione ed esecuzione di diagrammi di flusso.
-* **[pdfgen-unlocked](https://github.com)** — Tool per la generazione di file PDF dinamici in grado di estrarre e sbloccare contenuti testuali o grafici dai siti web che ne inibiscono normalmente la stampa.
-* **Background remover** — Strumento locale incentrato sulla privacy per la rimozione dello sfondo dalle immagini senza salvare dati online.
-* **DeployStatusBadgeGenerator-ghpages** — Generatore dinamico di badge per tenere traccia dello stato dei deployment nei file README dei repository.
+* **[multimdreader](https://github.com)** — Reader/editor Markdown multipiattaforma portable. Ha workflow CI/CD automatici per le build stabili e il deploy immediato della demo su GitHub Pages.
+* **[flowonline2](https://github.com)** — Clone web multilingua e fedele del software di diagrammi di flusso Flowgorithm.
+* **[pdfgen-unlocked](https://github.com)** — Estrattore e generatore PDF per salvare contenuti dai siti che bloccano la stampa.
+* **Background remover** — Tool locale per rimuovere lo sfondo dalle immagini salvaguardando la privacy (nessun dato online).
+* **DeployStatusBadgeGenerator-ghpages** — Generatore di badge di stato per i file README dei repository.
 
 #### 🎮 Giochi & Esperimenti
-* **[2048-game](https://github.com)** — Il classico rompicapo numerico ottimizzato per il web.
-* **wbwwb2-game** — Rielaborazione adattata, ottimizzata e interamente tradotta in lingua italiana del celebre gioco interattivo di Nicky Case.
-* **FreeGDL** — Porting gratuito, senza inserzioni pubblicitarie e ottimizzato per l'esecuzione su piattaforme GitHub Pages del titolo Geometry Dash.
-* **XTetris** — Una versione arcade del Tetris eseguibile direttamente da riga di comando (CLI).
+* **[2048-game](https://github.com)** — Il celebre rompicapo numerico ottimizzato per browser.
+* **wbwwb2-game** — Rielaborazione ottimizzata e interamente tradotta in italiano del gioco interattivo di Nicky Case.
+* **FreeGDL** — Versione gratuita, leggera e senza pubblicità di Geometry Dash per GitHub Pages.
+* **XTetris** — Il classico gioco del Tetris giocabile direttamente da riga di comando (CLI).
 
 ---
 
 ### 📊 Le mie Statistiche su GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Statistiche GitHub di PiBOH" height="192px"/>
-  <img src="https://vercel.app" alt="Linguaggi più usati da PiBOH" height="192px"/>
+  <img src="https://vercel.app" alt="Statistiche GitHub" width="45%" />
+  <img src="https://vercel.app" alt="Linguaggi più usati" width="45%" />
 </p>
 
 ---
 
 <p align="center"><em>Firmato, PiBOH 💻</em></p>
+
 
 <!-- VECCHIO README # Ciao, sono PiBOH (Pietro Bonaldo)👋
 
