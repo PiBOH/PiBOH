@@ -30,22 +30,22 @@ Sviluppo attivamente all'interno di queste organizzazioni:
 ### 📁 I miei Progetti Principali
 
 #### 📱 Applicazioni & Web App
-* **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** — Piattaforma interattiva per imparare 10 linguaggi divertendosi. Salva i progressi sul cloud con Supabase. (Demo: [code-learn1.vercel.app](https://code-learn1.vercel.app)).
+* **[CodeLearn1](https://github.com/PiBOH/CodeLearn1#js-repo-pjax-container)** — Piattaforma interattiva per imparare 10 linguaggi divertendosi. Salva i progressi sul cloud con Supabase. (Demo: [code-learn1.vercel.app](https://code-learn1.vercel.app)).
 * **[Design-Arena-AI](https://github.com/PiBOH/Design-Arena-AI_APK-android) & [Arena-AI](https://github.com/PiBOH/Arena-AI_APK-android)** — Applicazioni Android (.APK) ufficiali ottimizzate partendo dai rispettivi siti web.
-* **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** — Gestione centralizzata di server Minecraft tramite chiamate API, senza pubblicità.
+* **[MCServerManagement](https://github.com/PiBOH/MCServerManagement#js-repo-pjax-container)** — Gestione centralizzata di server Minecraft tramite chiamate API, senza pubblicità.
 
 #### 🛠 Utility & Strumenti
-* **[multimdreader](https://github.com/PiBOH/multimdreader)** — Reader/editor Markdown multipiattaforma portable. Ha workflow CI/CD automatici per le build stabili e il deploy immediato della demo su GitHub Pages.
-* **[flowonline2](https://github.com/PiBOH/flowonline2)** — Clone web multilingua e fedele del software di diagrammi di flusso Flowgorithm.
+* **[multimdreader](https://github.com/PiBOH/multimdreader#js-repo-pjax-container)** — Reader/editor Markdown multipiattaforma portable. Ha workflow CI/CD automatici per le build stabili e il deploy immediato della demo su GitHub Pages.
+* **[flowonline2](https://github.com/PiBOH/flowonline2#js-repo-pjax-container)** — Clone web multilingua e fedele del software di diagrammi di flusso Flowgorithm.
 * **[pdfgen-unlocked](https://github.com/PiBOH/pdfgen-unlocked)** — Estrattore e generatore PDF per salvare contenuti dai siti che bloccano la stampa.
-* **[Background remover](https://github.com/PiBOH/background-remover)** — Tool locale per rimuovere lo sfondo dalle immagini salvaguardando la privacy (nessun dato online).
+* **[Background remover](https://github.com/PiBOH/background-remover#js-repo-pjax-container)** — Tool locale per rimuovere lo sfondo dalle immagini salvaguardando la privacy (nessun dato online).
 * **[DeployStatusBadgeGenerator-ghpages](https://github.com/PiBOH/DeployStatusBadgeGenerator-ghubpages)** — Generatore di badge di stato per i file README dei repository.
 
 #### 🎮 Giochi & Esperimenti
-* **[2048-game](https://github.com)** — Il celebre rompicapo numerico ottimizzato per browser.
-* **[wbwwb2-game](https://github.com/PiBOH/wbwwb2-game)** — Rielaborazione ottimizzata e interamente tradotta in italiano del gioco interattivo di Nicky Case.
-* **[FreeGDL](https://github.com/PiBOH/FreeGDL)** — Versione gratuita, leggera e senza pubblicità di Geometry Dash per GitHub Pages.
-* **[XTetris](https://github.com/PiBOH/XTetris)** — Il classico gioco del Tetris giocabile direttamente da riga di comando (CLI).
+* **[2048-game](https://github.com/PiBOH/2048-game)** — Il celebre rompicapo numerico ottimizzato per browser.
+* **[wbwwb2-game](https://github.com/PiBOH/wbwwb2-game#js-repo-pjax-container)** — Rielaborazione ottimizzata e interamente tradotta in italiano del gioco interattivo di Nicky Case.
+* **[FreeGDL](https://github.com/PiBOH/FreeGDL#js-repo-pjax-container)** — Versione gratuita, leggera e senza pubblicità di Geometry Dash per GitHub Pages.
+* **[XTetris](https://github.com/PiBOH/XTetris#js-repo-pjax-container)** — Il classico gioco del Tetris giocabile direttamente da riga di comando (CLI).
 
 ---
 
