@@ -60,8 +60,9 @@ Sviluppo attivamente all'interno di queste organizzazioni:
 
 <p align="center"><em>Firmato, PiBOH 💻</em></p>
 
+## Star History
 
-
+[![Star History Chart](https://api.star-history.com/chart?repos=PiBOH-EDU/tcr-notes%2CPiBOH/FreeGDL%2CPiBOH/CodeLearn1%2CPiBOH/XTetris%2CPiBOH/piboh.github.io%2CPiBOH/PiBOH%2CPiBOH/flowonline2%2CPiBOH/CodeLearn1-WEB%2CPiBOH/Arena-AI_APK-android%2CPiBOH/multimdreader%2CPiBOH/MCServerManagement&type=date&legend=bottom-right)](https://www.star-history.com/?repos=PiBOH-EDU%2Ftcr-notes%2CPiBOH%2FFreeGDL%2CPiBOH%2FCodeLearn1%2CPiBOH%2FXTetris%2CPiBOH%2Fpiboh.github.io%2CPiBOH%2FPiBOH%2CPiBOH%2Fflowonline2%2CPiBOH%2FCodeLearn1-WEB%2CPiBOH%2FArena-AI_APK-android%2CPiBOH%2Fmultimdreader%2CPiBOH%2FMCServerManagement&type=date&legend=bottom-right)
 <!-- VECCHIO README # Ciao, sono PiBOH (Pietro Bonaldo)👋
 
 Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a **inizio maggio 2026** 🚀. Sviluppo principalmente **Web App** e **App per Android** (e su richiesta posso cimentarmi anche su Windows e Apple... *forse!* 😉).
