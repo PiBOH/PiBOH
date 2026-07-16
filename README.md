@@ -1,9 +1,18 @@
-# Ciao, sono PiBOH (Pietro Bonaldo)👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img alt="PiBOH — Pietro Bonaldo | Developer Profile" src="./assets/dark.svg" width="100%">
+</picture>
 
-Benvenuto nel mio profilo GitHub! Sono entrato nel mondo della programmazione a **inizio maggio 2026** 🚀. Sviluppo principalmente **Web App** e **App per Android** (e su richiesta posso cimentarmi anche su Windows e Apple... *forse!* 😉).
+<p align="center">
+  <a href="https://github.com/PiBOH">GitHub</a> ·
+  <a href="https://piboh.github.io/">Portfolio</a> ·
+  <a href="mailto:piboh.github@gmail.com">Email</a> ·
+  <a href="https://www.barsantigalilei.edu.it/">IIS Barsanti-Galilei</a> ·
+  <a href="https://www.instagram.com/piboh.github.io?igsh=MXdtcDI2dXZqbzd2Mw==">Instagram</a>
+</p>
 
-Attuamlente studio informatca all' [IIS Barsanti-Galilei](https://www.barsantigalilei.edu.it/) (Plesso [ITIS](https://www.barsantigalilei.edu.it/index.php/struttura/istituto-di-istruzione-superiore-barsanti-galilei/scuola/))
-
+<!-- 
 ---
 
 ### 📱 Le mie Applicazioni & Web App
