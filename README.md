@@ -8,7 +8,7 @@
   <a href="https://github.com/PiBOH">GitHub</a> ·
   <a href="https://piboh.github.io/">Portfolio</a> ·
   <a href="mailto:piboh.github@gmail.com">Email</a> ·
-  <a href="https://www.barsantigalilei.edu.it/">IIS Barsanti-Galilei</a> ·
+  <a href="https://www.barsantigalilei.edu.it/index.php/struttura/istituto-di-istruzione-superiore-barsanti-galilei/scuola/)">IIS Barsanti-Galilei</a> ·
   <a href="https://www.instagram.com/piboh.github.io?igsh=MXdtcDI2dXZqbzd2Mw==">Instagram</a>
 </p>
 
