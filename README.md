@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Ciao, sono **PiBOH** — *Pietro Bonaldo*
+# 👋 Hi, I'm **PiBOH** — *Pietro Bonaldo*
 
-**Studente di Informatica** · **Sviluppatore Full-Stack** · **Creatore di Web App, Utility Tools e app Android**
+**Computer Science Student** · **Full-Stack Developer** · **Builder of Web Apps, Utility Tools and Android Apps**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-piboh.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://piboh.github.io/)
 [![Email](https://img.shields.io/badge/Email-piboh.github@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piboh.github@gmail.com)
@@ -13,16 +13,16 @@
 
 ---
 
-## 👨‍💻 Chi sono
+## 👨‍💻 About me
 
-Sono uno studente di Informatica presso l'**[IIS Barsanti-Galilei — Plesso ITIS](https://www.barsantigalilei.edu.it/)** e uno sviluppatore indipendente appassionato di:
+I'm a Computer Science student at **[IIS Barsanti-Galilei — ITIS campus](https://www.barsantigalilei.edu.it/)** and an independent developer passionate about:
 
-- 🌐 **Web App** moderne e interattive
-- 🛠️ **Utility Tools** che risolvono problemi concreti
-- 📱 **Applicazioni Android** portabili e ottimizzate
-- 🤖 **Automazioni** con CI/CD e GitHub Actions
+- 🌐 Modern, interactive **Web Apps**
+- 🛠️ **Utility Tools** that solve real-world problems
+- 📱 Portable, optimized **Android applications**
+- 🤖 **Automation** with CI/CD and GitHub Actions
 
-Credo in progetti semplici, gratuiti e senza pubblicità, progettati per essere davvero utili.
+I believe in simple, free, ad-free projects designed to be genuinely useful.
 
 ---
 
@@ -44,62 +44,62 @@ Credo in progetti semplici, gratuiti e senza pubblicità, progettati per essere 
 
 ---
 
-## 📂 Progetti in evidenza
+## 📂 Featured projects
 
-### 📱 Web App & Mobile
+### 📱 Web Apps & Mobile
 
-- **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** 💻 — Piattaforma interattiva per imparare **10 linguaggi di programmazione** divertendosi. Progressi salvati su **Supabase**.
-  - 🌐 *Demo live:* [code-learn1.vercel.app](https://code-learn1.vercel.app/)
-- **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** 🎮 — Gestione centralizzata di server **Minecraft** tramite API, senza pubblicità. *(Consigliato l'uso da PC).*
-- **[Design-Arena-AI](https://github.com/PiBOH/Design-Arena-AI_APK-android)** 🎨 — Il sito ufficiale di Design Arena convertito in app Android.
-- **[Arena-AI](https://github.com/PiBOH/Arena-AI_APK-android)** 🤖 — Il sito ufficiale di Arena AI convertito in app Android.
+- **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** 💻 — Interactive platform to learn **10 programming languages** while having fun. Progress saved on **Supabase**.
+  - 🌐 *Live demo:* [code-learn1.vercel.app](https://code-learn1.vercel.app/)
+- **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** 🎮 — Centralized management of **Minecraft** servers via API, completely ad-free. *(Best experienced from a PC).*
+- **[Design-Arena-AI](https://github.com/PiBOH/Design-Arena-AI_APK-android)** 🎨 — The official Design Arena website converted into an Android app.
+- **[Arena-AI](https://github.com/PiBOH/Arena-AI_APK-android)** 🤖 — The official Arena AI website converted into an Android app.
 
-### 🛠️ Utility & Strumenti
+### 🛠️ Utilities & Tools
 
-- **[multimdreader](https://github.com/PiBOH/multimdreader)** 📄 — Reader markdown **multilingua e portatile** con workflow CI/CD automatici per build Windows, macOS e Linux, e deploy su GitHub Pages.
-- **[flowonline2](https://github.com/PiBOH/flowonline2)** 🧠 — Versione in-browser di *Flowgorithm*, fedele all'originale.
-- **[pdfgen-unlocked](https://github.com/PiBOH/pdfgen-unlocked)** 📑 — Genera PDF estraendo contenuti anche dai siti in cui la stampa è bloccata.
-- **[DeployStatusBadgeGenerator-ghpages](https://github.com/PiBOH/DeployStatusBadgeGenerator-ghpages)** 🏷️ — Genera badge di stato di deploy pronti per i README.
-- **[background-remover](https://github.com/PiBOH/background-remover)** 🖼️ — Rimuove lo sfondo dalle immagini direttamente nel browser, senza salvare nulla online.
+- **[multimdreader](https://github.com/PiBOH/multimdreader)** 📄 — **Multilingual, portable** markdown reader with automatic CI/CD workflows for Windows, macOS and Linux builds, plus GitHub Pages deployment.
+- **[flowonline2](https://github.com/PiBOH/flowonline2)** 🧠 — In-browser version of *Flowgorithm*, faithful to the original.
+- **[pdfgen-unlocked](https://github.com/PiBOH/pdfgen-unlocked)** 📑 — Generates PDFs by extracting content even from sites where printing is blocked.
+- **[DeployStatusBadgeGenerator-ghpages](https://github.com/PiBOH/DeployStatusBadgeGenerator-ghpages)** 🏷️ — Generates deployment status badges ready for your README files.
+- **[background-remover](https://github.com/PiBOH/background-remover)** 🖼️ — Removes image backgrounds right in the browser; nothing is uploaded online.
 
-### 🎮 Giochi & Esperimenti
+### 🎮 Games & Experiments
 
-- **[FreeGDL](https://github.com/PiBOH/FreeGDL)** 🟢 — Versione gratuita, leggera e senza pubblicità di *Geometry Dash*, ottimizzata per GitHub Pages.
-- **[XTetris](https://github.com/PiBOH/XTetris)** 🧩 — Il classico **Tetris** giocabile da riga di comando.
-- **[2048-game](https://github.com/PiBOH/2048-game)** 🔢 — Il celebre rompicapo numerico, ottimizzato per il browser.
-- **[wbwwb2-game](https://github.com/PiBOH/wbwwb2-game)** 🕹️ — Rielaborazione ottimizzata e tradotta in italiano del gioco di Nicky Case.
+- **[FreeGDL](https://github.com/PiBOH/FreeGDL)** 🟢 — Free, lightweight, ad-free version of *Geometry Dash*, optimized for GitHub Pages.
+- **[XTetris](https://github.com/PiBOH/XTetris)** 🧩 — The classic **Tetris** playable right from the command line.
+- **[2048-game](https://github.com/PiBOH/2048-game)** 🔢 — The famous number puzzle, optimized for the browser.
+- **[wbwwb2-game](https://github.com/PiBOH/wbwwb2-game)** 🕹️ — An optimized, Italian-translated rework of Nicky Case's game.
 
 ---
 
-## 📊 Statistiche GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=PiBOH&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true)](https://github.com/PiBOH)
-[![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=PiBOH&layout=compact&theme=github_dark&hide_border=true)](https://github.com/PiBOH)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PiBOH&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true)](https://github.com/PiBOH)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiBOH&layout=compact&theme=github_dark&hide_border=true)](https://github.com/PiBOH)
 
 </div>
 
 ---
 
-## 🏛️ Organizzazioni
+## 🏛️ Organizations
 
-- 🎮 **[@PiBOH-MC](https://github.com/PiBOH-MC)** — Progetti e tool dedicati al mondo di Minecraft.
-- 📚 **[@PiBOH-EDU](https://github.com/PiBOH-EDU)** — Repository, note e risorse per l'ambito scolastico ed educativo.
+- 🎮 **[@PiBOH-MC](https://github.com/PiBOH-MC)** — Projects and tools dedicated to the world of Minecraft.
+- 📚 **[@PiBOH-EDU](https://github.com/PiBOH-EDU)** — Repositories, notes and resources for school and education.
 
 ---
 
-## 📫 Contatti
+## 📫 Contact
 
-- 🌐 **Sito Web:** [piboh.github.io](https://piboh.github.io/) — tutti i miei lavori in un unico posto.
-- 📧 **Email:** [piboh.github@gmail.com](mailto:piboh.github@gmail.com) — domande, segnalazioni di bug o collaborazioni.
-- 🐛 **Bug trovati?** Apri un issue nel repository interessato oppure scrivimi direttamente.
+- 🌐 **Website:** [piboh.github.io](https://piboh.github.io/) — all my work in one place.
+- 📧 **Email:** [piboh.github@gmail.com](mailto:piboh.github@gmail.com) — questions, bug reports or collaborations.
+- 🐛 **Found a bug?** Open an issue in the relevant repository or reach out directly.
 
 ---
 
 <div align="center">
 
-*Grazie per essere passato di qui! Se un progetto ti è utile, una ⭐ fa sempre piacere.*
+*Thanks for stopping by! If a project helps you, a ⭐ is always appreciated.*
 
 **PiBOH** 💻
 
