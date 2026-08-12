@@ -1,5 +1,14 @@
 <div align="center">
 
+_(since 09 August 2026)_
+
+[![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FPiBOH&label=GitHub+Profile+Visitors+Today&icon=github&color=%23198754&message=&style=for-the-badge&tz=Europe%2FRome)](https://github.com/PiBOH)
+[![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fpiboh.github.io&label=My+website+Visitors+Today&icon=globe2&color=%23198754&message=&style=for-the-badge&tz=Europe%2FRome)](https://piboh.github.io/)
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm **PiBOH** — *Pietro Bonaldo*
 
 **Computer Science Student** · **Full-Stack Developer** · **Builder of Web Apps, Utility Tools and Android Apps**
