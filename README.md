@@ -24,7 +24,7 @@ _(since 09 August 2026)_
 
 ## 👨‍💻 About me
 
-I'm a Computer Science student at **[IIS Barsanti-Galilei — ITIS campus](https://www.barsantigalilei.edu.it/)** and an independent developer passionate about:
+I'm a Computer Science student at **[IIS Barsanti-Galilei — ITIS department](https://www.barsantigalilei.edu.it/)** and an independent developer passionate about:
 
 - 🌐 Modern, interactive **Web Apps**
 - 🛠️ **Utility Tools** that solve real-world problems
