@@ -1,3 +1,12 @@
+<div align="center">
+
+_(since 09August2026)_
+
+[![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FPiBOH&label=GitHub+Profile+Visitors+Today&icon=github&color=%23198754&message=&style=for-the-badge&tz=Europe%2FRome)](https://github.com/PiBOH)
+[![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fpiboh.github.io&label=My+website+Visitors+Today&icon=globe2&color=%23198754&message=&style=for-the-badge&tz=Europe%2FRome)](https://piboh.github.io/)
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
