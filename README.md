@@ -1,16 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PiBOH/PiBOH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_(since 09 August 2026)_
 
-Here are some ideas to get you started:
+[![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FPiBOH&label=GitHub+Profile+Visitors+Today&icon=github&color=%23198754&message=&style=for-the-badge&tz=Europe%2FRome)](https://github.com/PiBOH)
+[![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fpiboh.github.io&label=My+website+Visitors+Today&icon=globe2&color=%23198754&message=&style=for-the-badge&tz=Europe%2FRome)](https://piboh.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+
+# Hi, I'm **PiBOH** — *Pietro Bonaldo*
+
+**Computer Science Student** · **Full-Stack Developer** · **Builder of Web Apps, Utility Tools and Android Apps**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-piboh.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://piboh.github.io/)
+[![Email](https://img.shields.io/badge/Email-piboh.github@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piboh.github@gmail.com)
+
+</div>
+
+---
+
+## About me
+
+I'm a Computer Science student and an independent developer passionate about:
+
+- Modern, interactive **Web Apps**
+- **Utility Tools** that solve real-world problems
+- Portable, optimized **Android applications**
+- **Automation** with CI/CD and GitHub Actions
+
+I believe in simple, free, ad-free projects designed to be genuinely useful.
+
+---
+
+## Tech Stack
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+
+---
+
+## Featured projects
+
+### Web Apps & Mobile
+
+- **[CodeLearn1](https://github.com/PiBOH/CodeLearn1)** — Interactive platform to learn **10 programming languages** while having fun. Progress saved on **Supabase**.
+  - *Live demo:* [code-learn1.vercel.app](https://code-learn1.vercel.app/)
+- **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** — Centralized management of **Minecraft** servers via API, completely ad-free. *(Best experienced from a PC).*
+- **[Design-Arena-AI](https://github.com/PiBOH/Design-Arena-AI_APK-android)** — The official Design Arena website converted into an Android app.
+- **[Arena-AI](https://github.com/PiBOH/Arena-AI_APK-android)** — The official Arena AI website converted into an Android app.
+
+### Utilities & Tools
+
+- **[multimdreader](https://github.com/PiBOH/multimdreader)** — **Multilingual, portable** markdown reader with automatic CI/CD workflows for Windows, macOS and Linux builds, plus GitHub Pages deployment.
+- **[flowonline2](https://github.com/PiBOH/flowonline2)** — In-browser version of *Flowgorithm*, faithful to the original.
+- **[pdfgen-unlocked](https://github.com/PiBOH/pdfgen-unlocked)** — Generates PDFs by extracting content even from sites where printing is blocked.
+- **[DeployStatusBadgeGenerator-ghpages](https://github.com/PiBOH/DeployStatusBadgeGenerator-ghpages)** — Generates deployment status badges ready for your README files.
+- **[background-remover](https://github.com/PiBOH/background-remover)** — Removes image backgrounds right in the browser; nothing is uploaded online.
+
+### Games & Experiments
+
+- **[FreeGDL](https://github.com/PiBOH/FreeGDL)** — Free, lightweight, ad-free version of *Geometry Dash*, optimized for GitHub Pages.
+- **[XTetris](https://github.com/PiBOH/XTetris)** — The classic **Tetris** playable right from the command line.
+- **[2048-game](https://github.com/PiBOH/2048-game)** — The famous number puzzle, optimized for the browser.
+- **[wbwwb2-game](https://github.com/PiBOH/wbwwb2-game)** — An optimized, Italian-translated rework of Nicky Case's game.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PiBOH&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true)](https://github.com/PiBOH)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiBOH&layout=compact&theme=github_dark&hide_border=true)](https://github.com/PiBOH)
+
+</div>
+
+---
+
+## Organizations
+
+- **[@PiBOH-MC](https://github.com/PiBOH-MC)** — Projects and tools dedicated to the world of Minecraft.
+- **[@PiBOH-EDU](https://github.com/PiBOH-EDU)** — Repositories, notes and resources for school and education.
+
+---
+
+## Contact
+
+- **Website:** [piboh.github.io](https://piboh.github.io/) — all my work in one place.
+- **Email:** [piboh.github@gmail.com](mailto:piboh.github@gmail.com) — questions, bug reports or collaborations.
+- **Found a bug?** Open an issue in the relevant repository or reach out directly.
+
+---
+
+<div align="center">
+
+*Thanks for stopping by! If a project helps you, a star is always appreciated.*
+
+**PiBOH**
+
+</div>
