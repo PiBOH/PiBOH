@@ -11,7 +11,7 @@ _(since 09 August 2026)_
 
 # Hi, I'm **PiBOH** — *Pietro Bonaldo*
 
-** [FlowOnline2](https://piboh.github.io/flowonline2/) Creator** · **Computer Science Student** · **Full-Stack Developer** · **Builder of Web Apps, Utility Tools and Android Apps**
+**[FlowOnline2](https://piboh.github.io/flowonline2/) Creator** · **Computer Science Student** · **Full-Stack Developer** · **Builder of Web Apps, Utility Tools and Android Apps**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-piboh.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://piboh.github.io/)
 [![Email](https://img.shields.io/badge/Email-piboh.github@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piboh.github@gmail.com)
