@@ -59,7 +59,7 @@ I believe in simple, free, ad-free projects designed to be genuinely useful.
   - *Live demo:* [code-learn1.vercel.app](https://code-learn1.vercel.app/)
 - **[MCServerManagement](https://github.com/PiBOH/MCServerManagement)** — Centralized management of **Minecraft** servers via API, completely ad-free. *(Best experienced from a PC).*
 - **[Design-Arena-AI](https://github.com/PiBOH/Design-Arena-AI_APK-android)** — The official Design Arena website converted into an Android app.
-- **[Arena-AI](https://github.com/PiBOH/Arena-AI_APK-android)** — The official Arena AI website converted into an Android app.
+- **[Arena-AI](https://github.com/PiBOH/Arena-AI)** — The official Arena AI website converted into an Android app.
 
 ### Utilities & Tools
 
